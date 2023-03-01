@@ -1,0 +1,44 @@
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.mdb
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.scc
+*.sig
+*.suo
+*.tlog
+*.trx
+*.vssscc
+*.vspscc
+
+# Ignore ReSharper files
+_ReSharper*/
+*.ReSharper*
+
+# Ignore NuGet packages
+packages/
+*.nupkg
